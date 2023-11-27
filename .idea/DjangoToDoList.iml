@@ -12,11 +12,4 @@
       </list>
     </option>
   </component>
-  <component name="TemplatesService">
-    <option name="TEMPLATE_FOLDERS">
-      <list>
-        <option value="$MODULE_DIR$/taskmanager/main/templates" />
-      </list>
-    </option>
-  </component>
 </module>
